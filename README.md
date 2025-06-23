@@ -17,3 +17,15 @@ Made by **Ketan (IIIT Pune)** as a personal project to learn conditionals, loops
 ```bash
 gcc rock_paper_scissors.c -o rps
 ./rps
+
+## Sample Output 
+Your Turn! Choose:
+1. Rock
+2. Paper
+3. Scissors
+Enter your choice (1-3): 2
+
+You chose: Paper
+CPU chose: Rock
+>> You won this round!
+Score => You: 1 | CPU: 0
